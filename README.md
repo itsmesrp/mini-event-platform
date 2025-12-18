@@ -163,6 +163,13 @@ npm run dev
 
 ---
 
+## Live Demo
+
+- Frontend (Vercel): https://minieventplatform.vercel.app
+- Backend (Render): https://event-platform-server.onrender.com
+
+---
+
 ## Future Improvements
 
 - Edit event functionality
